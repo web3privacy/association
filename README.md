@@ -6,6 +6,14 @@ This is a document used as a draft to prepare a legal entity for the Web3Privacy
 * Jurisdiction: 🇨🇿 **Czech Republic**, European Union
 * Legal form: **Association** ("spolek" in Czech) - defined in Czech Civic Law ([89/2012 Sb. § 214 - § 302](https://www.zakonyprolidi.cz/cs/2012-89#f4579519))
 
+The importance of this organisation in terms of the whole Web3Privacy Now initiative:
+
+* legal representation of all our activities
+* receiving of donations
+* collection of membership fees
+* redistribution of money
+* communication with suppliers such as venues etc.
+
 The non-profit nature of the Association is protected directly by law:
 
 > § 217
@@ -15,14 +23,6 @@ The non-profit nature of the Association is protected directly by law:
 > (2) In addition to its main activity, an association may also engage in an ancillary economic activity consisting in business or other gainful activity if its purpose is to support the main activity or to make economic use of the association's property.
 >
 > (3) Profits from the activities of the association may only be used for the association's activities, including the administration of the association.
-
-The importance of this organisation in terms of the whole Web3Privacy Now initiative:
-
-* legal representation of all our activities
-* receiving of donations
-* collection of membership fees
-* redistribution of money
-* communication with suppliers such as venues etc.
 
 ## Name
 
