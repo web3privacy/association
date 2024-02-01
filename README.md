@@ -76,3 +76,4 @@ Members have the option to explicitly declare their membership as public - these
 
 * **"Datová schránka" account** (Data box) - electronic form of communication with authorities in the Czech Republic ([more info](https://chcidatovku.gov.cz/en/datova-schranka))
 * **Bank account** - (transparent?) EUR/CZK account ([Fio Banka](https://www.fio.cz/bank-services/bank-accounts/transparent-account))
+* **Crypto-exchange account** - an account with a Czech cryptocurrency exchange for receiving cryptocurrency donations ([Anycoin](https://www.anycoin.cz/))
