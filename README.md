@@ -16,6 +16,12 @@ The non-profit nature of the Association is protected directly by law:
 >
 > (3) Profits from the activities of the association may only be used for the association's activities, including the administration of the association.
 
+## Name
+
+The proposed name is "*Web3Privacy Now, z.s.*".
+
+"z.s." means "zapsaný spolek" ("registered association") in Czech and having it in the name is a legal necessity.
+
 ## Bodies
 
 1. **Supreme body** ("congress") - membership meeting, minimally 1x per a year - members with a vote can approve and amend the statutes, change the composition of the statutory body, decide on the dissolution of the association or its transformation
