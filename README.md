@@ -22,6 +22,13 @@ The proposed name is "*Web3Privacy Now, z.s.*".
 
 "z.s." means "zapsaný spolek" ("registered association") in Czech and having it in the name is a legal necessity.
 
+## Registered office address
+
+Czech law requires having a physical address, in case of delivery of letters and other contact. We will solve this by setting up a virtual office in Prague.
+
+Proposed providers:
+- [Ofigo.cz](https://www.ofigo.cz/en/virtual-office/) - 199 CZK/month
+
 ## Bodies
 
 1. **Supreme body** ("congress") - membership meeting, minimally 1x per a year - members with a vote can approve and amend the statutes, change the composition of the statutory body, decide on the dissolution of the association or its transformation
