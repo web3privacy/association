@@ -77,3 +77,15 @@ Members have the option to explicitly declare their membership as public - these
 * **"Datová schránka" account** (Data box) - electronic form of communication with authorities in the Czech Republic ([more info](https://chcidatovku.gov.cz/en/datova-schranka))
 * **Bank account** - (transparent?) EUR/CZK account, payment cards for expenses ([Fio Banka](https://www.fio.cz/bank-services/bank-accounts/transparent-account))
 * **Crypto-exchange account** - an account with a Czech cryptocurrency exchange for transfering cryptocurrency donations ([Anycoin](https://www.anycoin.cz/))
+
+### Association operating costs
+
+Basic annual costs:
+
+| Item | Price CZK | Price EUR |
+| --- | --- | --- |
+| accounting and annual closing calculation (taxes etc.) | 10 000 CZK | ~402 EUR |
+| rental of registered address | 2400 CZK | ~97 EUR |
+| bank accounts, datová schránka etc. | 0 CZK | 0 EUR |
+| **total** | **12400 CZK** | **499 EUR** |
+
