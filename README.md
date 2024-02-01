@@ -16,6 +16,14 @@ The non-profit nature of the Association is protected directly by law:
 >
 > (3) Profits from the activities of the association may only be used for the association's activities, including the administration of the association.
 
+The importance of this organisation in terms of the whole Web3Privacy Now initiative:
+
+* legal representation of all our activities
+* receiving of donations
+* collection of membership fees
+* redistribution of money
+* communication with suppliers such as venues etc.
+
 ## Name
 
 The proposed name is "*Web3Privacy Now, z.s.*".
