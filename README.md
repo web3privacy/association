@@ -37,6 +37,16 @@ Czech law requires having a physical address, in case of delivery of letters and
 Proposed providers:
 - [Ofigo.cz](https://www.ofigo.cz/en/virtual-office/) - 199 CZK/month (~8 EUR/month)
 
+## Purpose of the association (mission)
+
+The main purpose (mission) of the association is to spread awareness about privacy in Web3 ecosystem and to connect people with similar interests.
+
+The association will fulfil its mission mainly by carrying out its main activity, which is
+* publishing and disseminating educational materials through technologies that allow remote access
+* organising community meetings, conferences and other events
+* establish contacts, cooperate and exchange experiences with others institutions and other entities interested in privacy
+* popularises and promotes the protection of privacy and the activities of the association
+
 ## Governance bodies
 
 1. **Supreme body** ("congress") - membership meeting, minimally 1x per a year - members with a vote can approve and amend the statutes, change the composition of the statutory body, decide on the dissolution of the association or its transformation
