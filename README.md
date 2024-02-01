@@ -6,6 +6,16 @@ This is a document used as a draft to prepare a legal entity for the Web3Privacy
 * Jurisdiction: **Czech Republic**
 * Legal form: **Association** ("spolek" in Czech) - defined in Czech Civic Law ([89/2012 Sb. § 214 - § 302](https://www.zakonyprolidi.cz/cs/2012-89#f4579519))
 
+The non-profit nature of the Association is protected directly by law:
+
+> § 217
+>
+> (1) The main activity of an association may only be the satisfaction and protection of those interests for the fulfilment of which the association is established. Business or other gainful activity cannot be the main activity of the association.
+> 
+> (2) In addition to its main activity, an association may also engage in an ancillary economic activity consisting in business or other gainful activity if its purpose is to support the main activity or to make economic use of the association's property.
+>
+> (3) Profits from the activities of the association may only be used for the association's activities, including the administration of the association.
+
 ## Bodies
 
 1. **Supreme body** - Congress of members (membership meeting), minimally 1x per a year - members with a vote can approve and amend the statutes, change the composition of the statutory body, decide on the dissolution of the association or its transformation
