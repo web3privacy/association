@@ -42,7 +42,8 @@ Proposed providers:
 The main purpose (mission) of the association is to spread awareness about privacy in Web3 ecosystem and to connect people with similar interests.
 
 The association will fulfil its mission mainly by carrying out its main activity, which is
-* publishing and disseminating educational materials through technologies that allow remote access
+* conducts a research and tries to develop self-regulatory principles, in the form of codexes, etc.
+* publishing and disseminating educational and research materials through technologies that allow remote access
 * organising community meetings, conferences and other events
 * establish contacts, cooperate and exchange experiences with others institutions and other entities interested in privacy
 * popularises and promotes the protection of privacy and the activities of the association
