@@ -18,7 +18,7 @@ The non-profit nature of the Association is protected directly by law:
 
 ## Bodies
 
-1. **Supreme body** - Congress of members (membership meeting), minimally 1x per a year - members with a vote can approve and amend the statutes, change the composition of the statutory body, decide on the dissolution of the association or its transformation
+1. **Supreme body** ("congress") - membership meeting, minimally 1x per a year - members with a vote can approve and amend the statutes, change the composition of the statutory body, decide on the dissolution of the association or its transformation
 2. **Statutary body** ("committee") - Composed at the beginning of 2 people (Tree and Mykola) - voted by supreme body, elected for 5 years (czech standard), take care of the daily activities of the association, approve applications, determine the amount of membership fees, convene congress of members, etc.
 
 ## Membership types
