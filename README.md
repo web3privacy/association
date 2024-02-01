@@ -27,6 +27,12 @@ The non-profit nature of the Association is protected directly by law:
 2. **Associate member** ("subscriber") - members who will have benefits but no voting rights. These are defacto "Patreon" members, or mostly consumers. These members can be fully anonymous and practically we don't need to approve them. This membership will be the main one we will present on the site for purchase
 3. **Company associate member** ("company subscriber") - more expensive membership for companies or other associations, they don't have voting rights, they can have 100% discount on regular/subscriber membership for 3 people from their organization
 
+## Membership list
+
+The full list of members is confidental and non-public, available only to the statutory body. The list shall be kept in electronic encrypted form.
+
+Members have the option to explicitly declare their membership as public - these members will be published on our website and in other documents.
+
 ## Membership fees
 
 * Individuals (regular/subscriber members) - 100 EUR/year
