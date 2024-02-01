@@ -69,3 +69,10 @@ Members have the option to explicitly declare their membership as public - these
 
 * Individuals (regular/subscriber members) - 100 EUR/year
 * Companies - 1000 EUR/year
+
+## Another specifications
+
+### Commitee services
+
+* **"Datová schránka" account** (Data box) - electronic form of communication with authorities in the Czech Republic ([more info](https://chcidatovku.gov.cz/en/datova-schranka))
+* **Bank account** - (transparent?) EUR/CZK account ([Fio Banka](https://www.fio.cz/bank-services/bank-accounts/transparent-account))
