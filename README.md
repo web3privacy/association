@@ -3,7 +3,7 @@
 This is a document used as a draft to prepare a legal entity for the Web3Privacy Now initiative.
 
 * Type of organization: **Non-profit organization** (NGO)
-* Jurisdiction: **Czech Republic**
+* Jurisdiction: 🇨🇿 **Czech Republic**, European Union
 * Legal form: **Association** ("spolek" in Czech) - defined in Czech Civic Law ([89/2012 Sb. § 214 - § 302](https://www.zakonyprolidi.cz/cs/2012-89#f4579519))
 
 The non-profit nature of the Association is protected directly by law:
